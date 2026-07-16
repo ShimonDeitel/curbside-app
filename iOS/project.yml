@@ -35,7 +35,6 @@ targets:
     platform: iOS
     sources:
       - path: CurbsideTests
-      - path: Curbside.storekit
     dependencies:
       - target: Curbside
     settings:
